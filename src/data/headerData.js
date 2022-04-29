@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/CV_Lucie_AUSSET (1) (1).pdf'
-import profileImg from '../assets/png/'
+import profileImg from '../assets/png/IMG_0256.png'
 
 export const headerData = {
     name: 'Lucie Ausset',

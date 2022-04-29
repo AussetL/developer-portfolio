@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'sreerag.rajan5@gmail.com',
-    phone: '+91 9663437669',
-    address: '412 Ground Floor, Indraprastha Colony, Sector 30-33, Faridabad, Haryana, 121003',
+    email: 'lucie.ausset01@gmail.com',
+    phone: '+33 6 95 46 15 94',
+    address: 'Ecole Polytechnique 91120 Palaiseau',
 
     sheetAPI: ''
 }

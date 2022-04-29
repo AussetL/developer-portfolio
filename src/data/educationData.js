@@ -1,22 +1,22 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
+        institution: 'Lycée Henri IV',
+        course: 'Baccalauréat',
+        startYear: '2016',
         endYear: '2018'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
+        institution: 'Lycée Privé Sainte Geneviève',
+        course: 'Classes Préparatoires aux grandes écoles',
         startYear: '2019',
         endYear: '2021'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
+        institution: 'Ecole Polytechnique',
+        course: "1ère année cycle d'ingénieur",
         startYear: '2021',
         endYear: 'Present'
     },
